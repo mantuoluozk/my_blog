@@ -2,7 +2,7 @@
 码神之路博客代码
 使用spring boot, mysql, redis, mybatis-plus的前后端分离的博客网站
 # 项目使用技术 ：
-springboot + mybatisplus+redis+mysql+rocketmq
+**springboot + mybatisplus+redis+mysql+rocketmq**
 
 1.jwt + redis
 token令牌的登录方式，访问认证速度快，session共享，安全性
